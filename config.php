@@ -3,7 +3,7 @@
 // Database connection details and consultant data retrieval
         $servername = "localhost";
         $username = "refectli_TestPhp";
-        $password = "TestPhp#123";
+        $password = "";
         $dbname = "refectli_testphp";
 
         $conn = new mysqli($servername, $username, $password, $dbname);
