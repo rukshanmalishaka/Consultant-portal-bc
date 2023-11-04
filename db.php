@@ -2,7 +2,7 @@
 // Database configuration
 $dbHost     = "localhost";
 $dbUsername = "refectli_TestPhp";
-$dbPassword = "TestPhp#123";
+$dbPassword = "";
 $dbName     = "refectli_testphp";
 
 // Create database connection
